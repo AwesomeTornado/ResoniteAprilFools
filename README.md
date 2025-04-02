@@ -1,12 +1,8 @@
-# ExampleMod
+# Resonite April Fools!
 
-A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that does something.
-<!-- Edit to describe what your mod does and what it may solve -->
-<!-- If your mod solves an issue, you should link to any relevant issues on the resonite github -->
+A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that enables the april fools update outside of april fools.
 
-
-## Screenshots
-<!-- If your mod has visible effects in the game, attach some images or video of it in-use here! Otherwise remove this section -->
+Have you missed the April fools update? Are your friends talking about fun jokes that you don't understand because you missed out? Look no further! This mod re-enables all April Fools content for your enjoyment.
 
 ## Installation
 1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader).
